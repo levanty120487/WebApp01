@@ -31,3 +31,4 @@ C:\lab-gits\WebApp01\WebApp01\obj\Debug\net8.0\refint\WebApp01.dll
 C:\lab-gits\WebApp01\WebApp01\obj\Debug\net8.0\WebApp01.pdb
 C:\lab-gits\WebApp01\WebApp01\obj\Debug\net8.0\WebApp01.genruntimeconfig.cache
 C:\lab-gits\WebApp01\WebApp01\obj\Debug\net8.0\ref\WebApp01.dll
+C:\lab-gits\WebApp01\WebApp01\obj\Debug\net8.0\WebApp01.sourcelink.json
